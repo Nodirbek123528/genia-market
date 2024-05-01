@@ -6,8 +6,8 @@ function Footer() {
             <div className="container">
                 <div className="footer-wrapper">
                     <div className="footer-logo">
-                        <div className="footer-logo__image">
-                            <img src="/images/logo.svg" alt="brand logo" />
+                        <div className="header-logo">
+                            <img src="/images/logo.png" alt="brand logo" className='header-logo-logo' />
                         </div>
                     
                             <p className="footer-logo__text">Best information about the company gies here but now lorem ipsum is</p>

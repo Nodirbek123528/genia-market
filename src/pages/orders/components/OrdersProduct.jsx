@@ -7,7 +7,6 @@ import { addCart } from '../../../store/slices/cart';
 function OrdersProduct({ product }) {
   // const { id, title, mainImage, model, price } = product
   const dispatch = useDispatch()
-  console.log(product);
   const handleRemove = () => {
     dispatch(removeOrder(product.id))
   }

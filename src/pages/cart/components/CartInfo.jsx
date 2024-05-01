@@ -30,19 +30,19 @@ function CartInfo() {
       </div>
       <div className='cart-info__icons'>
           <span>
-            <img src="public/images/card-checkout/americanexpress.svg" alt="americanexpress icon" />
+            <img src="./images/card-checkout/americanexpress.svg" alt="americanexpress icon" />
           </span>
           <span>
-            <img src="public/images/card-checkout/mastercard.svg" alt="mastercard icon" />
+            <img src="./images/card-checkout/mastercard.svg" alt="mastercard icon" />
           </span>
           <span>
-            <img src="public/images/card-checkout/paypal.svg" alt="paypal icon" />
+            <img src="./images/card-checkout/paypal.svg" alt="paypal icon" />
           </span>
           <span>
-            <img src="public/images/card-checkout/visa.svg" alt="visa icon" />
+            <img src="./images/card-checkout/visa.svg" alt="visa icon" />
           </span>
           <span>
-            <img src="public/images/card-checkout/apple-pay.svg" alt="apple-pay icon" />
+            <img src="./images/card-checkout/apple-pay.svg" alt="apple-pay icon" />
           </span>
         </div>
       

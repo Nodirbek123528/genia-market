@@ -7,7 +7,6 @@ function CartProduct({ product }) {
   const { id, title, image, model, price, qty } = product
   const dispatch = useDispatch()
 
-  console.log(product);
 
   const handleRemove = () => {
     dispatch(removeCart(id))
